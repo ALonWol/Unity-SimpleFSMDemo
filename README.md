@@ -1,5 +1,5 @@
 # Unity-SimpleFSMDemo
-
+![image](https://github.com/ALonWol/Unity-SimpleFSMDemo/blob/master/Screenshot/screenshot.gif)
 Unity version: 2019.3.2f1
 
 Platform: Ubuntu 16.04
